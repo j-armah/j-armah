@@ -6,4 +6,4 @@ I'm a full-stack software engineer. I attended and graduated from Flatiron Schoo
 
 - 🔭 I’m currently working on improving old projects and new side projects
 - 🌱 I’m currently learning data structures & algorithms, more python, and more javascript
-- 📫 How to reach me: jarmah241@gmail.com | https://www.linkedin.com/in/jeremy-armah/ | https://jacodes.netlify.app/
+- 📫 Let's Chat: jarmah241@gmail.com | https://www.linkedin.com/in/jeremy-armah/ | https://jacodes.netlify.app/
